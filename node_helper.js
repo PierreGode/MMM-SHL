@@ -213,7 +213,7 @@ module.exports = NodeHelper.create({
         return {
           icon:
             "https://www.shl.se/team_graphics/nef_shl/tik1-tik-9d6bb/special/30.png",
-          name: "Timerå"
+          name: "Timrå"
         };
       case "VLH":
         return {
