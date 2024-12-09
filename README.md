@@ -70,7 +70,7 @@ modules: [
 | Örebro | OHK      |
 | Rögle | RBK      |
 | Skellefteå | SAIK      |
-| Timerå | TIK      |
+| Timrå | TIK      |
 | Växjö | VLH      |
 | Oskarshamn | IKO      |
 | Leksand | LIF      |
